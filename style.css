@@ -1,0 +1,39 @@
+body {
+	text-align: center;
+	background-color: #6093a0d2;
+}
+
+h1 {
+	font-size: 5rem;
+	color: #DBEDF3;
+	font-family: cursive;
+	text-shadow: 3px 0 orange;
+}
+
+
+.all {
+	margin: 10% auto;
+}
+
+.animation {
+	box-shadow: 0 3px 4px 0 #DBEDF3;
+	opacity: 0.5;
+}
+
+.button {
+	outline: none;
+	border: 10px solid #4f6940;
+	font-size: 5rem;
+	font-family: 'Arvo', cursive;
+	line-height: 2;
+	font-weight: 900;
+	color:orange;
+	text-shadow: 3px 0 #DBEDF3;
+	border-radius: 15px;
+	display: inline-block;
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	margin: 10px;
+	background-color: white;
+}
